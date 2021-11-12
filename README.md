@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Malinxwski
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java , Php...
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning SQL
+- 💀 Stack: Laravel, VueJS, Bitrix and more
 - 💞️ I’m looking to collaborate on Laravel-Vue projects
 - 📫 How to reach me ? Dont know. 
 

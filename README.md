@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Malinxwski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in creating apps for customs/logistics 
+- 🌱 I’m currently learning Angluar
 - 💀 Stack: Laravel, VueJS, Bitrix and more
-- 💞️ I’m looking to collaborate on Laravel-Vue projects
 - 📫 How to reach me ? Dont know. 
 
 <!---

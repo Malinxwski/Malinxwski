@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malinxwski
 - 👀 I’m interested in creating apps for customs/logistics 
 - 🌱 I’m currently learning Angluar
-- 💀 Stack: Laravel, VueJS, Bitrix and more
+- 💀 Stack: Angular, VueJS and more
 - 📫 How to reach me ? Dont know. 
 
 <!---
